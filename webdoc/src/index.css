@@ -1,0 +1,12 @@
+@import "tailwindcss";
+.rotate-y-0 {
+  transform: rotateY(0deg);
+}
+
+.rotate-y-\[-90deg\] {
+  transform: rotateY(-90deg);
+}
+
+.perspective-\[1200px\] {
+  perspective: 1200px;
+}
